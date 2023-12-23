@@ -6,11 +6,11 @@ Prazer, me chamo, Jailine, sou graduanda em análise e desenvolvimento de sistem
 Atualmente exerço o cargo de estagiária numa empresa focada no desenvolvimento de software, onde exerço o papel de desenvolvedora web Java/Spring. ☕🍃 
 
 <a href= "https://www.linkedin.com/in/jailine-almeida/"> 
- <img height="35px" src="https://img.shields.io/badge/Linkedin-00008B?logo=linkedin" alt="Logo do linkedin" />
+ <img height="25px" src="https://img.shields.io/badge/Linkedin-00008B?logo=linkedin" alt="Logo do linkedin" />
 </a>
 
 <a href= "https://www.instagram.com/jayline_santana"> 
- <img height="35px" src="https://img.shields.io/badge/Instagram-8B008B?logo=instagram&logoColor=white" alt="Logo do Instagram" />
+ <img height="25px" src="https://img.shields.io/badge/Instagram-8B008B?logo=instagram&logoColor=white" alt="Logo do Instagram" />
 </a>
 
 ## 
@@ -30,10 +30,10 @@ Tema personalizado
 ### Tecnologias mais utilizadas 🛠️
 
 <div display= "flex" flex-direction= "row" justify-content= "center">
- <img height="35px" weight="150px" src="https://img.shields.io/badge/-Java-008000?logo=coffeescript"/> 
- <img height="35px" weight="150px" src="https://img.shields.io/badge/-Spring-006400?logo=spring"/> 
- <img height="35px" weight="150px" src="https://img.shields.io/badge/-Mysql-005386?logo=mysql&logoColor=white"/>
- <img height="35px" weight="150px" src="https://img.shields.io/badge/-PostgreSql-003B57?logo=postgresql&logoColor=white" />
+ <img height="30px" weight="150px" src="https://img.shields.io/badge/-Java-008000?logo=coffeescript"/> 
+ <img height="30px" weight="150px" src="https://img.shields.io/badge/-Spring-006400?logo=spring"/> 
+ <img height="30px" weight="150px" src="https://img.shields.io/badge/-Mysql-005386?logo=mysql&logoColor=white"/>
+ <img height="30px" weight="150px" src="https://img.shields.io/badge/-PostgreSql-003B57?logo=postgresql&logoColor=white" />
 
  <!--  outra forma de inserir logos <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" 
  alt="Logo da linguagem de programação java" /> -->
