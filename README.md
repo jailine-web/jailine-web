@@ -48,3 +48,6 @@ Tema personalizado
 <img height="30px" src="https://img.shields.io/badge/Angular-8B0000?logo=angular"/> <img height="30px" src="https://img.shields.io/badge/-Spring%20Security-006400?logo=springsecurity&logoColor=white"/> 
 
  
+<!-- Links utilizados para criar as figurinhas
+Criar figurinhas: https://shields.io/badges
+Criar icones das figs: https://simpleicons.org/ -->
