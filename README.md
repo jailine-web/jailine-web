@@ -23,7 +23,7 @@ Tema personalizado
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jailine-web&show_icons=true&theme=radical&bg_color=00000000)
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jailine-web&hide=contribs,prs&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailine-web&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=donut&hide_progress=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jailine-web_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailine-web&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=donut&hide_progress=true&theme=radical)
 
 
 ### Tecnologias mais utilizadas 🛠️
