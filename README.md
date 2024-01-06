@@ -44,7 +44,7 @@ Tema personalizado
 
 ### Estudos atuais 📚
 
-<img height="30px" src="https://img.shields.io/badge/Angular-8B0000?logo=angular"/> <img height="30px" src="https://img.shields.io/badge/-Spring%20Security-006400?logo=springsecurity&logoColor=white"/> <img height="30px" src="https://img.shields.io/badge/-Inglês-#05054B?logo=bookstack&logoColor=white"/>  
+<img height="30px" src="https://img.shields.io/badge/Angular-8B0000?logo=angular"/> <img height="30px" src="https://img.shields.io/badge/-Spring%20Security-006400?logo=springsecurity&logoColor=white"/> <img height="30px" src="https://img.shields.io/badge/-Inglês-05054B?logo=bookstack&logoColor=white"/>  
 
  
 <!-- Links utilizados para criar as figurinhas
