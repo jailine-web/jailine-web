@@ -2,7 +2,7 @@
 
 ### Seja bem-vindo(a)!!! 🎉🥳
 
-Prazer, me chamo, Jailine, sou graduanda em análise e desenvolvimento de sistemas. Atualmente exerço o cargo de estagiária em desenvolvimento de software, e atuo como desenvolvedora back-end web com foco na linguagem Java/Spring. ☕🍃 
+Prazer, me chamo Jailine, sou graduanda em análise e desenvolvimento de sistemas. Atualmente exerço o cargo de estagiária em desenvolvimento de software, e atuo como desenvolvedora back-end web com foco na linguagem Java/Spring. ☕🍃 
 
 <a href= "https://www.linkedin.com/in/jailine-almeida/"> 
  <img height="25px" src="https://img.shields.io/badge/Linkedin-00008B?logo=linkedin" alt="Logo do linkedin" />
