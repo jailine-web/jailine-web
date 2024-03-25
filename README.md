@@ -33,7 +33,7 @@ Tema personalizado
  <img height="30px" weight="150px" src="https://img.shields.io/badge/-Spring-006400?logo=spring&logoColor=white"/> 
  <img height="30px" weight="150px" src="https://img.shields.io/badge/-Mysql-005386?logo=mysql&logoColor=black"/>
  <img height="30px" weight="150px" src="https://img.shields.io/badge/-PostgreSql-003B57?logo=postgresql&logoColor=white" />
- <img height="30px" weight="150px" src="https://img.shields.io/badge/-microsoftexcel-217346?logo=Excel&logoColor=green" />
+ <img height="30px" weight="150px" src="https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=green" />
  
  <!--  outra forma de inserir logos <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" 
  alt="Logo da linguagem de programação java" /> -->
