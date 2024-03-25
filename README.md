@@ -31,7 +31,7 @@ Tema personalizado
 <div display= "flex" flex-direction= "row" justify-content= "center">
  <img height="30px" weight="150px" src="https://img.shields.io/badge/-Java-008000?logo=coffeescript"/> 
  <img height="30px" weight="150px" src="https://img.shields.io/badge/-Spring-006400?logo=spring&logoColor=white"/> 
- <img height="30px" weight="150px" src="https://img.shields.io/badge/-Mysql-005386?logo=mysql&logoColor=black"/>
+ <img height="30px" weight="150px" src="https://img.shields.io/badge/-Mysql-005386?logo=mysql&logoColor=white"/>
  <img height="30px" weight="150px" src="https://img.shields.io/badge/-PostgreSql-003B57?logo=postgresql&logoColor=white" />
  <img height="30px" weight="150px" src="https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white" />
  
