@@ -4,14 +4,6 @@
 
 Prazer, me chamo Jailine, sou graduanda em análise e desenvolvimento de sistemas. Atualmente exerço o cargo de estagiária em desenvolvimento de software, e atuo como desenvolvedora back-end web com foco na linguagem Java/Spring. ☕🍃 
 
-<a href= "https://www.linkedin.com/in/jailine-almeida/"> 
- <img height="25px" src="https://img.shields.io/badge/Linkedin-00008B?logo=linkedin" alt="Logo do linkedin" />
-</a>
-
-<a href= "https://www.instagram.com/jayline_santana"> 
- <img height="25px" src="https://img.shields.io/badge/Instagram-8B008B?logo=instagram&logoColor=white" alt="Logo do Instagram" />
-</a>
-
 ## 
 <!-- stats sem ícones
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jailine-web)](https://github.com/anuraghazra/github-readme-stats)
