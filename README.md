@@ -26,6 +26,7 @@ Tema personalizado
  <img height="30px" weight="150px" src="https://img.shields.io/badge/-Mysql-005386?logo=mysql&logoColor=white"/>
  <img height="30px" weight="150px" src="https://img.shields.io/badge/-Bubble-003B57?logo=Bun&logoColor=white" />
  <img height="30px" weight="150px" src="https://img.shields.io/badge/-Excel-217346?logo=alwaysdata&logoColor=white" />
+ <img height="30px" weight="150px" src="https://img.shields.io/badge/-AWS-217346?logo=amazonwebservices&logoColor=white" />
  
  <!--  outra forma de inserir logos <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" 
  alt="Logo da linguagem de programação java" /> -->
@@ -37,7 +38,7 @@ Tema personalizado
 
 ### Estudos atuais 📚
 
-<img height="30px" src="https://img.shields.io/badge/Angular-8B0000?logo=angular"/> <img height="30px" src="https://img.shields.io/badge/-Spring%20Security-006400?logo=springsecurity&logoColor=white"/> <img height="30px" src="https://img.shields.io/badge/-Inglês-05054B?logo=bookstack&logoColor=gray"/>  
+<img height="30px" src="https://img.shields.io/badge/Low code-8B0000?logo=Bun"/> <img height="30px" src="https://img.shields.io/badge/-Spring%20Security-006400?logo=springsecurity&logoColor=white"/> <img height="30px" src="https://img.shields.io/badge/-Inglês-05054B?logo=bookstack&logoColor=gray"/>  
 
  
 <!-- Links utilizados para criar as figurinhas
